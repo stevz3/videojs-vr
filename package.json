@@ -78,7 +78,7 @@
   ],
   "dependencies": {
     "global": "^4.3.2",
-    "three": "0.92.0",
+    "three": "0.95.0",
     "video.js": "^6 || ^7",
     "webvr-polyfill": "0.10.5"
   },
